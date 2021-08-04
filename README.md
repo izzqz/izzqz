@@ -4,4 +4,5 @@
 
 ### 🗒️ Latest Posts
 <!-- feed start -->
+- Jul 30 - [gpg agent refused operation on chromebook](https://izzqz.me/gpg-agent-refused-operation-on-chromebook/)
 <!-- feed end -->
